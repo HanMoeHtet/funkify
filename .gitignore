@@ -1,0 +1,8 @@
+.vscode
+app/build
+coverage
+dist
+node_modules
+.eslintcache
+TODOS.md
+yarn-error.log

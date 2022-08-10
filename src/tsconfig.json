@@ -1,0 +1,14 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@src/*": ["*"],
+      "@test/*": ["../test/*"]
+    },
+    "outDir": "../dist",
+    "declaration": true,
+    "declarationDir": "../dist/types",
+    "stripInternal": true
+  }
+}
