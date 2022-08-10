@@ -1,5 +1,8 @@
 {
   "name": "@han-moe-htet/funkify-app",
   "private": "true",
-  "author": "Han Moe Htet"
+  "author": "Han Moe Htet",
+  "dependencies": {
+    "@han-moe-htet/funkify": "^0.0.1"
+  }
 }
